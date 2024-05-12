@@ -27,7 +27,7 @@ public:
 };
 
 int main() {
-    int n = 5; // Örnek olarak 5 çift girilecek
+    int n = 5; 
     val p[n] = {
         {5, 24},
         {39, 60},
